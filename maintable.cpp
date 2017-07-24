@@ -210,7 +210,7 @@ int MainTable::random(int index){
     time_t sec;
     time(&sec);
     srand((unsigned int) sec);
-    return rand()%this->ways;
+    return (rand()+index)%this->ways;
 }
 
 int MainTable::lfu(int index){
