@@ -27,5 +27,16 @@ This program have a limit of 2048 ways, words and block size. If you wanna chang
 ```
 to your desired quantity
 
+## Compiled versions
+If you only want to execute the program, download any of the versions listed below.
+- [Windows](https://mega.nz/#!hNRHxT5K!eUNyaydwHbwXdD6DwsBpmStffm0IZIZ0AF6AERhrXwo)
+- [Linux](https://mega.nz/#!VFR1CToZ!83x3GTbX5AKZoXSj8ImaVBK55min4ikEbYs8uL-ks5U)
 
 ## Screenshots
+I3-wm
+![i3-wm](http://u.onigiri.com.ve/EV2Dfnyabi2Xn0.png)
+Unity
+![unity](http://u.onigiri.com.ve/WmN0NqUKJ7E7C.png)
+Windows 10
+![windows](http://u.onigiri.com.ve/5sNUa.png)
+
