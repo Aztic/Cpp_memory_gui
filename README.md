@@ -40,3 +40,5 @@ Unity
 Windows 10
 ![windows](http://u.onigiri.com.ve/5sNUa.png)
 
+## License
+Apache 2.0
