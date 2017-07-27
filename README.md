@@ -16,6 +16,7 @@ git clone https://github.com/Aztic/Cpp_memory_gui && cd Cpp_memory_gui
 qmake
 make
 ```
+or just download any of the [compiled versions](https://github.com/Aztic/Cpp_memory_gui/blob/master/README.md#compiled-versions) and execute it.
 
 ## Limits
 
