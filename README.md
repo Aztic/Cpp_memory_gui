@@ -4,6 +4,7 @@ Same repository as Cpp_memory but with gui
 
 ## Requirements
 - Qt5
+- In some cases, you'll also need Qt4
 - qmake
 - make
 - c++11 compatible compiler
