@@ -35,11 +35,11 @@ If you only want to execute the program, download any of the versions listed bel
 
 ## Screenshots
 I3-wm
-![i3-wm](http://u.onigiri.com.ve/EV2Dfnyabi2Xn0.png)
+![i3-wm](https://u.rindou.moe/uN10Wt3q5BYAPV3X5eZT.png)
 Unity
-![unity](http://u.onigiri.com.ve/WmN0NqUKJ7E7C.png)
+![unity](https://u.rindou.moe/pMLcN1ld5MiPjyb0rD2Q.png)
 Windows 10
-![windows](http://u.onigiri.com.ve/5sNUa.png)
+![windows](https://u.rindou.moe/iTPkkrOxO5Ixb1x63HC5.png)
 
 ## License
 Apache 2.0
